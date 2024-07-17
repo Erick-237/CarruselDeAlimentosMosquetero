@@ -10,7 +10,7 @@ COMUNIDAD MOSQUETEROS​
 Pudes accesar a nuestra pagina de faceboock [aqui](https://m.facebook.com/groups/828370342132214/?ref=share&mibextid=KtfwRi).
 
 Para ver las horas de cada integrante en el proyecto has click en cada nombre:
- - [Horas de Erick Cabello](https://1drv.ms/x/s!Ah5MqpjFiEW9tWoDEE8JcY5ldlMc?e=aGpZZ9)
+ - [Horas de Erick Cabello](assets/files/erick.mht)
  - [Horas de Catalina Lopez](https://1drv.ms/x/s!Ah5MqpjFiEW9txbpJKt5h3X2M-rz?e=BZg9Oy)
  - [Horas de Sebaastian del Bosque](https://1drv.ms/x/s!Ah5MqpjFiEW9txtbR09GJoTyGvKW?e=xehoUd)
 
@@ -21,7 +21,7 @@ Para ver las horas de cada integrante en el proyecto has click en cada nombre:
 
 # Evidencias varias
 
-- [Panfleto que se uso como difucion](assets/files/erick.mht)
+- [Panfleto que se uso como difucion](https://1drv.ms/p/s!Ah5MqpjFiEW9tW-GwcU0HZyF84HA?e=9T7DM1)
 - [Precentacion del proyecto](https://1drv.ms/p/s!Ah5MqpjFiEW9txndqvQ9wCzXQLar?e=g5keaZ)
 - [Video del proyecto](https://onedrive.live.com/embed?resid=BD4588C598AA4C1E%216889&authkey=!AOQpHQzLVNpJj8E)
 
