@@ -3,7 +3,7 @@
 Pudes accesar a nuestra pagina de faceboock [aqui](https://m.facebook.com/groups/828370342132214/?ref=share&mibextid=KtfwRi).
 
 Para ver las horas de cada integrante en el proyecto has click en cada nombre:
- - [Horas de Erick Cabello](assets/files/HorasErickCabello.xlsx)
+ - [Horas de Erick Cabello](assets/files/HorasErickCabello.mht)
  - [Horas de Catalina Lopez](assets/files/CarruseldeAlimentos-Caty.xlsx)
  - [Horas de Sebaastian del Bosque](assets/files/Sebastianhorasdecarruseldealimentos3.xlsx)
 
