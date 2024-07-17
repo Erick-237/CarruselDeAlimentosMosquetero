@@ -21,7 +21,7 @@ Para ver las horas de cada integrante en el proyecto has click en cada nombre:
 
 # Evidencias varias
 
-- [Panfleto que se uso como difucion](https://1drv.ms/p/s!Ah5MqpjFiEW9tW-GwcU0HZyF84HA?e=9T7DM1)
+- [Panfleto que se uso como difucion](assets/files/erick.mht)
 - [Precentacion del proyecto](https://1drv.ms/p/s!Ah5MqpjFiEW9txndqvQ9wCzXQLar?e=g5keaZ)
 - [Video del proyecto](https://onedrive.live.com/embed?resid=BD4588C598AA4C1E%216889&authkey=!AOQpHQzLVNpJj8E)
 
