@@ -1,11 +1,13 @@
 # CarruselDeAlimentosMosquetero
 
 Para ver las horas de cada integrante en el proyecto has click en cada nombre:
- - [Horas de Erick Cabello](https://github.com/Erick-237/CarruselDeAlimentosMosquetero/raw/main/Horas%20Erick%20Cabello.xlsx)
+ - [Horas de Erick Cabello](assets/files/HorasErickCabello.xlsx)
+ - [Horas de Catalina Lopez](assets/files/CarruseldeAlimentos-Caty.xlsx)
+ - [Horas de Sebaastian del Bosque](assets/files/Sebastianhorasdecarruseldealimentos3.xlsx)
 
 # Evidencias varias
 
-- [Panfleto que se uso como difucion](https://github.com/Erick-237/CarruselDeAlimentosMosquetero/raw/main/Carrusel%20de%20alimentos2.0%20(2).pptx)
+- [Panfleto que se uso como difucion](assets/files/Carruseldealimentos2.0(2).pptx)
 
 ## Evidencia Fotografica
 
