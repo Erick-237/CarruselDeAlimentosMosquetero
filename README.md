@@ -1,4 +1,11 @@
-# CarruselDeAlimentosMosquetero
+# CARRUSEL DE ALIMENTOS MOSQUETERO
+
+GRUPO 6 KIKAPU​
+COMUNIDAD MOSQUETEROS​
+
+- ANTONIO SEBASTIÁN DEL BOSQUE ORTIZ​
+- SOFIA CATALINA LÓPEZ GAYTÁN​
+- ERICK DANIEL CABELLO CUEVAS
 
 Pudes accesar a nuestra pagina de faceboock [aqui](https://m.facebook.com/groups/828370342132214/?ref=share&mibextid=KtfwRi).
 
@@ -9,7 +16,8 @@ Para ver las horas de cada integrante en el proyecto has click en cada nombre:
 
 # Evidencias varias
 
-- [Panfleto que se uso como difucion](assets/files/Carruseldealimentos2.0(2).pptx)
+- [Panfleto que se uso como difucion](https://1drv.ms/p/s!Ah5MqpjFiEW9tW-GwcU0HZyF84HA?e=9T7DM1)
+- [Precentacion del proyecto](https://1drv.ms/p/s!Ah5MqpjFiEW9txndqvQ9wCzXQLar?e=g5keaZ)
 
 ## Evidencia Fotografica
 
