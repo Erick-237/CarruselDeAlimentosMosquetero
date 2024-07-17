@@ -10,7 +10,7 @@ COMUNIDAD MOSQUETEROS​
 Pudes accesar a nuestra pagina de faceboock [aqui](https://m.facebook.com/groups/828370342132214/?ref=share&mibextid=KtfwRi).
 
 Para ver las horas de cada integrante en el proyecto has click en cada nombre:
- - [Horas de Erick Cabello](assets/files/erick.mht)
+ - [Horas de Erick Cabello](assets/files/erick.md)
  - [Horas de Catalina Lopez](https://1drv.ms/x/s!Ah5MqpjFiEW9txbpJKt5h3X2M-rz?e=BZg9Oy)
  - [Horas de Sebaastian del Bosque](https://1drv.ms/x/s!Ah5MqpjFiEW9txtbR09GJoTyGvKW?e=xehoUd)
 
