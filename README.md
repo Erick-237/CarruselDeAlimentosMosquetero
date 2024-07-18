@@ -21,9 +21,9 @@ Para ver las horas de cada integrante en el proyecto has click en cada nombre:
 
 # Evidencias varias
 
-- [Panfleto que se uso como difucion](https://1drv.ms/p/s!Ah5MqpjFiEW9tW-GwcU0HZyF84HA?e=9T7DM1)
-- [Precentación del proyecto](https://1drv.ms/p/s!Ah5MqpjFiEW9txndqvQ9wCzXQLar?e=g5keaZ)
-- [Video del proyecto](https://onedrive.live.com/embed?resid=BD4588C598AA4C1E%216889&authkey=!AOQpHQzLVNpJj8E)
+- [Panfleto que se uso como difución](https://onedrive.live.com/view.aspx?resid=BD4588C598AA4C1E!6895&cid=bd4588c598aa4c1e&authkey=!ANtvwR0s8OU77TM&CT=1721262316670&OR=ItemsView)
+- [Precentación del proyecto](https://onedrive.live.com/view.aspx?resid=BD4588C598AA4C1E!7065&cid=bd4588c598aa4c1e&authkey=!ANtvwR0s8OU77TM&CT=1721262383964&OR=ItemsView)
+- [Video del proyecto](https://onedrive.live.com/?authkey=%21ANtvwR0s8OU77TM&cid=BD4588C598AA4C1E&id=BD4588C598AA4C1E%216889&parId=BD4588C598AA4C1E%216870&o=OneUp)
 
 ## Evidencia Fotográfica
 
